@@ -13,6 +13,7 @@ div{
     width: 500px;
     height: 300px;
     background-image: -webkit-linear-gradient(red, white);
+    border: solid 10px yellow;
 
 }
 p{
